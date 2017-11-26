@@ -4,7 +4,6 @@
         xmlns:materialDesign="clr-namespace:MaterialDesignThemes.Wpf;assembly=MaterialDesignThemes.Wpf"
         Title="MainWindow" Height="400" Width="300">
     <Grid>
-
         <TextBox VerticalAlignment="Center"
                  x:Name="NameTextBox"
                  materialDesign:HintAssist.Hint="Name">
